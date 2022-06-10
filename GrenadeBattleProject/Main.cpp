@@ -480,6 +480,7 @@ int main()
                     playerPos.x += depth.x;
                     player1Sprite.setPosition(playerPos);
 
+
                     // Are we colliding from the left or right?
                     if (depth.x > 0)//colliding form tthe left 
                     {
